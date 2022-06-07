@@ -5,7 +5,7 @@ import requests
 from tkinter import *
 import matplotlib.pyplot as plt
 
-
+#test
 #extragere date
 filesize = os.path.getsize("Proiectlp2.txt")
 if filesize == 0:
